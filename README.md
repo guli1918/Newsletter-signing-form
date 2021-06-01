@@ -3,9 +3,9 @@ Newsletter signing form powered by express.js and mailchimp.
 
 
 # To do before run: 
-Sign up to Mailchimp to get personal API key.
-Install express by: npm i express
-Modify API ID and API KEY on line 41 and 45 accordingly.
+Sign up to Mailchimp to get personal API key.  
+Install express by: npm i express   
+Modify API ID and API KEY on line 41 and 45 accordingly.   
 
 # Run: 
 
